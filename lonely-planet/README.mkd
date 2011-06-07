@@ -1,0 +1,5 @@
+Lonely Planet application
+=========================
+An SMS driven Lonely Planet application that uses telco asset marketplace gem
+You can find a screencast explaining this application in 
+<https://code.telcoassetmarketplace.com>
