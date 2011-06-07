@@ -1,0 +1,27 @@
+body {
+	font-family: 'Indie Flower', 'Verdana';
+}
+
+.outer_wrapper {
+	margin: 0 auto;
+	paddig: 0;
+	position: relative;
+	text-align: left;
+	width: 700px;
+	z-index: 10;
+}
+
+.contents {
+	margin: 30px;
+	padding: 10px;
+	color: #3F627E;
+	background-color: #DDDDDD;
+	text-align: center;
+	font-size: 30px;
+	
+	-moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    -khtml-border-radius:5px;
+    -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 1px 10px rgba(0,0,0,0.5);
+}
