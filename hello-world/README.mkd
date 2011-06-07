@@ -1,0 +1,6 @@
+Hello World application
+=======================
+This is the simplest application that you can develop using the 
+telco asset marketplace gem.
+You can find a screencast explaining this application in 
+<https://code.telcoassetmarketplace.com>
