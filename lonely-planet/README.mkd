@@ -3,3 +3,6 @@ Lonely Planet application
 An SMS driven Lonely Planet application that uses telco asset marketplace gem
 You can find a screencast explaining this application in 
 <https://code.telcoassetmarketplace.com>
+
+If you want to run this application by yourself then notice that you need to 
+configure your lonely planet application keys in tam_handler.rb file

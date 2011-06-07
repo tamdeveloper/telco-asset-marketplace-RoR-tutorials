@@ -28,8 +28,8 @@ class TamHandler
   def get_lp_pois(longitude, latitude, type)
     apigateway_url = "http://apigateway.lonelyplanet.com"
 
-    consumer_key = "35ga1MCiLX4n01ZSDFAA"
-    consumer_secret = "LXsagdLOad3gJAB6QHTxNPvmHlfwhgKHxSqSUhone1I"
+    consumer_key = "your consumer key"
+    consumer_secret = "your consumer secret"
 
     consumer = OAuth::Consumer.new(consumer_key, consumer_secret, :site => apigateway_url)
 
