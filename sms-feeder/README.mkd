@@ -1,4 +1,4 @@
-Hello World application
+SMS Feeder application
 =======================
 This is the simplest application that you can develop using the 
 telco asset marketplace gem.
