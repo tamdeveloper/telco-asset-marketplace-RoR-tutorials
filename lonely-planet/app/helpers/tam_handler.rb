@@ -52,7 +52,7 @@ class TamHandler
     if response == ''
       'LonelyPlanet could not find any recommendations in your area'
     else
-      'LonelyPlanet recommends: ' << response
+      'LonelyPlanet recommends: ' << response[0,200]
     end
   end
 end

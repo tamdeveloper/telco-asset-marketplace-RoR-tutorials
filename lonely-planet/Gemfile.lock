@@ -69,7 +69,7 @@ GEM
     sqlite3 (1.3.3)
     sqlite3-ruby (1.3.3)
       sqlite3 (>= 1.3.3)
-    tam (1.0.0)
+    tam (1.1.1)
       json (~> 1.5)
       oauth (~> 0.4.3)
       sinatra (~> 1.2.1)
