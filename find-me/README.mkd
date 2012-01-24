@@ -1,7 +1,0 @@
-Find me application
-===================
-find-me is a very simple application that shows how simple it is to use
-the telco asset marketplace gem to implement the client side of the OAUTH 
-authorization flow.
-You can find a screencast explaining this application in 
-<https://code.telcoassetmarketplace.com>
